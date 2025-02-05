@@ -2,7 +2,7 @@
 layout: default
 title: Common questions
 nav_order: 7
-last_modified_date: 2023-03-09
+last_modified_date: 2024-08-12
 ---
 
 # Common questions
@@ -42,7 +42,7 @@ A business playbook is a collection of documents, processes, and guidelines that
 
 This playbook is a living document that is constantly evolving to reflect the latest decisions and practices of the company. There is no one right time to update and review this document, but it is true that we consistently review it to reflect any business decisions in a timely manner.
 
-In any case, this document is reviewed at least a couple of times a year.
+In any case, different sections of this document are reviewed at least a few times each year.
 
 ## Who keeps this playbook up to date?
 

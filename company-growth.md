@@ -2,7 +2,7 @@
 layout: default
 title: Company growth
 nav_order: 3
-last_modified_date: 2023-03-09
+last_modified_date: 2024-08-12
 ---
 
 # Company growth
@@ -30,16 +30,25 @@ For the current year, we plan to focus our efforts on a very limited number of C
 
 As you probably know, SMART is a mnemonic acronym that can be used to drive the main objectives which stands for ***S***_pecific_ ***M***_easurable_ ***A***_chievable_ ***R***_easonable_ ***T***_ime-bound_.
 
-This is a list of goals set for the current year (2023) by the company:
+This is a list of goals set for the current year (2024) by the company:
 
-- Increase sales by 25% by the end of Q4 through targeted marketing campaigns.
-- Increase website traffic by 50% by the end of Q3 through a combination of SEO strategies, social media advertising, and email marketing campaigns.
-- Launch a new tailor-made service line dedicated to Corporate within the next 12 months, generating at least 15% of total earnings within the first year of launch.
-- Diversify the business by going from a few customers to several customers, reducing the weight of each one to less than 20% of the total expected turnover.
-- Identify and initiate at least one new social project to support in Q3 and Q4 periods.
-- Conduct a study on the applicability of AI in our existing (open/closed) projects and explore opportunities for re-engineering them as white label services.
-- Develop and implement a robust internship and stages program by the end of Q3 to attract and nurture top talent.
-- Increase the number of collaborators by 33% in this year.
+- Increase sales by 10% of total revenue compared to the previous year.
+- Strengthen website traffic by integrating SEO strategies, social media efforts, and marketing campaigns implemented in 2023.
+- Further diversify revenue streams by customer type and sector, with a continued focus on high-tech projects.
+- Implement the AI sales project through partnerships with some universities, with the initiative expected to continue into the next year (2025).
+- Leverage company open source projects for the implementation of partner initiatives.
+- Continue to strengthen and expand our ongoing internship and co-op programs, building on the foundations established last year.
+
+This is a list of goals set for 2023 by the company:
+
+- (OK) Increase sales by 25% by the end of Q4 through targeted marketing campaigns.
+- (OK) Increase website traffic by 50% by the end of Q3 through a combination of SEO strategies, social media advertising, and email marketing campaigns.
+- (OK) Launch a new tailor-made service line dedicated to Corporate within the next 12 months, generating at least 15% of total earnings within the first year of launch.
+- (OK) Diversify the business by going from a few customers to several customers, reducing the weight of each one to less than 20% of the total expected turnover.
+- (KO) Identify and initiate at least one new social project to support in Q3 and Q4 periods.
+- (OK) Conduct a study on the applicability of AI in our existing (open/closed) projects and explore opportunities for re-engineering them as white label services.
+- (KO) Develop and implement a robust internship and stages program by the end of Q3 to attract and nurture top talent.
+- (OK) Increase the number of collaborators by 33% in this year.
 
 ## Work for equity
 
