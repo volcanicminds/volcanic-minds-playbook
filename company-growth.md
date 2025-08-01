@@ -2,7 +2,7 @@
 layout: default
 title: Company growth
 nav_order: 3
-last_modified_date: 2025-02-05
+last_modified_date: 2025-08-01
 ---
 
 # Company growth
@@ -16,13 +16,11 @@ last_modified_date: 2025-02-05
 
 ---
 
-## Business evolution & future plan
+## Growth strategy
 
-Volcanic Minds supports tech startups and SMEs with guidance and development services, helping them grow and succeed.
+Volcanic Minds is on a deliberate path of expansion. From empowering tech startups and SMEs to driving success for larger enterprises, our growth strategy is built on deepening our specialized service lines. 
 
-While we already work with larger companies and corporates, we plan to further expand our services to include specific lines that help these larger entities excel.
-
-This growth allows us to support our current clients and offer new opportunities for larger businesses. Our commitment to quality and innovation remains central to our mission. Building a network of value among companies and partners remains a focal point of our journey.
+This allows us to amplify existing partnerships and forge new ones, ensuring our evolution is intrinsically linked to the shared success of our entire ecosystem.
 
 ## S.M.A.R.T. Goals
 
@@ -30,22 +28,20 @@ As you probably know, SMART is a mnemonic acronym that can be used to drive the 
 
 Strategic goals:
 
-- Enhance website traffic through various online strategies;
-- Diversify revenue streams by customer type and sector;
-- Implement and expand AI-related projects through partnerships;
-- Strengthen and expand internship and co-op programs;
-- Increase overall sales and revenue;
-- Utilize open source projects for partner initiatives;
-- Evaluate, analyze, and explore new international markets;
-- Establish new strategic partnerships to expand into complementary sectors.
+- Enhance website presence through various online strategies.
+- Diversify revenue streams by customer type and sector.
+- Implement and expand AI-related projects.
+- Strengthen and expand internship and co-ops.
+- Leverage open source projects for partner initiatives.
+- Explore and enter new international markets.
+- Establish new alliances in complementary sectors.
+- Increase overall sales and revenue.
 
 ## Work for equity
 
-Volcanic Minds understands the value of equity for starting projects, although it is not the main focus of our company. However, we are open to considering this mode for some ambitious projects with unique characteristics.
+While our primary focus is **service delivery**, we view strategic equity ventures as a powerful tool for **mutual growth**. We actively explore and invest in ambitious projects, particularly during their evolutionary or maintenance phases. This allows us to forge deeper, mutually beneficial partnerships, especially with those seeking innovative financing solutions. 
 
-The company's limited resources are primarily focused on developing core business operations and expanding the customer base. That said, we evaluate opportunities for the evolutionary or maintenance stages of projects, recognizing the potential benefits of equity arrangements as a means of financing for companies with limited financial resources.
-
-Volcanic Minds is willing to explore these opportunities on a case-by-case basis, ensuring that any equity arrangements are mutually beneficial for all parties involved.
+Each opportunity is rigorously evaluated for clear alignment with our mission and a defined path to shared victory.
 
 ## Social projects & no-profit activities
 
@@ -58,15 +54,10 @@ If you have a project to propose, please reach out to us. We will evaluate it to
 Volcanic Minds is developing a suite of open-source projects using JavaScript and Node.js.
 
 The suite includes:
-- Backend, divided into 2 projects
+- Backend
     - [Volcanic Backend](https://github.com/volcanicminds/volcanic-backend){:target="_blank"} based on [Fastify](https://www.fastify.io/){:target="_blank"}
     - [Volcanic Database Typeorm](https://github.com/volcanicminds/volcanic-database-typeorm){:target="_blank"} based on [TypeORM](https://typeorm.io/)
-- Admin panel
-    - [Volcanic Admin](https://github.com/volcanicminds/volcanic-admin){:target="_blank"} based on [Vue 2.7.13](https://v2.vuejs.org/), including [Vue Easytable](https://happy-coding-clans.github.io/vue-easytable/#/en/demo){:target="_blank"}
 - Website
     - [Volcanic Minds Website](https://github.com/volcanicminds/volcanic-minds-website){:target="_blank"} based on [Nuxt 3](https://nuxt.com/){:target="_blank"}
 
-All of which are designed to be customizable and adaptable to various projects.
-
-The suite's open-source nature allows for community contributions, improvements, and bug fixes.
-Volcanic Minds is committed to providing developers with the tools they need to build robust, scalable applications.
+All of which are designed to be customizable and adaptable to various projects. Dive deeper into [Volcanic Minds GitHub organization](https://github.com/volcanicminds){:target="_blank"}.

@@ -2,7 +2,7 @@
 layout: default
 title: Company profile
 nav_order: 2
-last_modified_date: 2025-02-05
+last_modified_date: 2025-08-01
 ---
 
 # Company profile
@@ -18,56 +18,51 @@ last_modified_date: 2025-02-05
 
 ## A bit of history
 
-Volcanic Minds was founded in September 2022 by three partners: Alessandro Capitolo, Davide Dispenza, and Davide Morra, with the goal of providing high-quality services to partners and businesses alike.
+Volcanic Minds was founded in September 2022 with the goal of providing high-quality services to partners and businesses alike.
 
-With the motto "smart, fast, efficient," the company aims to stand out in the industry by offering not only technical services but also management and process optimization solutions.
+Founded on the principle of delivering **smart**, **fast**, and **efficient** solutions, the company aims to stand out in the industry by offering not only technical services but also management and process optimization solutions.
 
-The founders' extensive experience in the IT sector—gained through years of collaboration with Corporates, Startups, and SMEs across various industries—highlighted the need to establish a reliable and robust technological reference point. Though young and dynamic, Volcanic Minds is positioned to make and sustain a significant impact in the IT consulting sector, driven by a clearly defined mission.
+Drawing on years of IT experience with Corporates, Startups, and SMEs, we identified the need for a truly reliable technological partner. As a young and dynamic firm, Volcanic Minds is poised to make a lasting impact in the IT consulting sector, driven by a clear mission.
 
-## Our values & experiences
+## What drives us
 
-Our core values define our work. Quality is the cornerstone of our business—we consistently strive to exceed expectations. Transparency guides us as we build honest, collaborative relationships with clients and partners, always welcoming feedback for improvement. 
+Excellence is our cornerstone. Transparency is our method.
+One ensures our solutions have a real impact; the other builds the trust required to achieve it together.
 
-By understanding each client’s unique challenges, we deliver tailored solutions backed by extensive expertise across industries like manufacturing, banking, finance, automotive, healthcare, digital evolution, and advertising. We are proud of our values and experience, and we look forward to driving success together.
+This approach allows us to transform our deep expertise - spanning industries from manufacturing and finance to automotive and healthcare — into tailored solutions. These values are the engine of our success, and we use them to build lasting impact together.
 
-## Vision, Mission and Philosophy
+## Our north star
 
-Our **vision** is to grow without sacrificing quality or losing focus on our clients' needs. By staying true to our core values, we aim to expand while delivering exceptional products and services. 
+Our **Vision**: To be the most trusted architects of technological evolution, proving that exceptional growth is the natural result of a relentless focus on mutual success.
 
-Our **mission** is to create an environment where employees thrive professionally and personally. We believe happy, motivated employees are key to success, so we support them in maintaining a healthy work-life balance and provide the resources they need. 
+Our **Mission**: To be a launchpad for talent—a place where passion is fueled, potential is unlocked, and our team is our greatest achievement.
 
-Our **philosophy** centers on innovation, creativity, and collaboration. We encourage our team to think outside the box, generating new ideas to better serve our clients and stay ahead of the curve. By fostering teamwork and open communication, we achieve our goals in a positive, supportive work environment—proving that working hard while having fun is possible.
+Our **Philosophy** is the foundation of our partnerships:
 
-## Company rituals & touch points
+- **_Challenge_** Everything. Ask why. Find a better way, together.
+- **_Collaborate_** to Win. Our victory is a shared one.
+- **_Enjoy_** the Ascent. The journey matters as much as the summit.
 
-At Volcanic Minds, we place great importance on creating rituals and touchpoints that help us foster a strong sense of community and connection among our employees, especially being a _full remote_ company.
+## Rhythm of our culture
 
-We hold regular team meetings where we share progress, exchange insights, and collaborate on innovative ideas. In addition, our training sessions and workshops empower our employees to develop new skills and stay current with industry trends. Our social events—including team-building activities, happy hours, and company-wide celebrations—offer meaningful opportunities for personal connection and relationship building.
+As a _fully remote_ company, connection is our lifeblood. We deliberately create a rhythm of rituals that unite us, spark creativity, and build a strong, supportive community across any distance.
 
-Beyond these touchpoints, our company rituals play a vital role in recognizing and celebrating employee achievements. By honoring individual and collective contributions, we nurture a culture of excellence and mutual support.
+We align through regular syncs where we share progress and shape innovative ideas. We grow through dedicated workshops that empower our team to master new skills and lead industry trends. Most importantly, we connect as people—through virtual events and celebrations that honor our achievements and forge genuine relationships.
 
-These events are fundamental to our vibrant company culture, and we remain dedicated to investing in them as we continue to grow and succeed together.
+These aren't just events on a calendar; they are the moments that define our culture and fuel our shared success.
 
-## Our stakeholders: Partners vs Clients
+## Partners in the center
 
-At the heart of our success is a truly appreciation for the value that our clients and partners bring to our business. We know that delivering cutting-edge solutions and exceptional value starts with building solid and trustworthy relationships. By taking the time to truly understand their needs and goals, we create tailored solutions that empower their growth.
+We don't just have _clients_; we build **partnerships**. This is more than a choice of words. While a client relationship can be transactional, a partnership is built on a **shared destination**.
 
-Our collaborative approach goes beyond traditional roles—we see every stakeholder as a **true partner** in crafting winning strategies. This partnership-driven mindset delivers tangible benefits across our entire value chain.
+That’s why we invest the time to deeply understand our partners' vision, challenges, and goals. We don't just deliver solutions; we co-create them, embedding ourselves as a true extension of their team. This collaborative spirit is our engine for crafting winning strategies and ensuring that our growth is intrinsically linked to theirs.
 
 ## Innovative culture
 
-At Volcanic Minds, our innovative culture is the cornerstone of our success. We believe that continuous **innovation and challenging** the status quo are essential to staying ahead. Our environment fosters curiosity, creativity, and the courage to experiment—even when failure is a stepping stone to growth.
+For us, innovation isn't an initiative. It's our default state. It is the mindset that ensures every challenge is seen as an opportunity and every solution we build is designed not just for today, but for what comes next.
 
-We invest in **cutting-edge** research and development to explore new technologies and methodologies, ensuring that we deliver advanced solutions to our clients. Our commitment to innovation sets us apart, driving excellence and keeping us at the forefront of our industry.
+Our **approach** is built on three principles: 
 
-## Board of directors
-
-At Volcanic Minds, our board of directors consists of our three co-founders, each bringing unique expertise and a shared vision for success.
-
-**Davide Morra** serves as CEO, CFO and Sales Manager. He drives our strategic direction, ensuring operational excellence and financial stability. As the CEO, he provides strategic leadership to the company, overseeing all aspects of the company's operations.
-
-**Alessandro Capitolo** is our CMO and CRO, leading marketing and design. His deep experience in market research, advertising, and branding fuels our customer engagement and brand growth. With a wealth of experience in marketing and design, he is responsible for the development and implementation of the company's marketing strategies.
-
-**Davide Dispenza** holds the roles of CTO, CIO, and CSO, steering our engineering and tech partnerships. His extensive knowledge and experience in technology and engineering have enabled the company to develop innovative solutions that have helped the company to stay ahead of its competitors.
-
-Together, their complementary skills and shared vision drive Volcanic Minds’s growth and success. Combining different skills, our leadership team ensures we lead in IT consulting, delivering innovative solutions and exceptional value.
+1. Question the known with curiosity.
+2. Build to learn through experimentation.
+3. Deliver a decisive advantage.
