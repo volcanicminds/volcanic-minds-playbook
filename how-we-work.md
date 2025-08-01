@@ -2,7 +2,7 @@
 layout: default
 title: How we work
 nav_order: 4
-last_modified_date: 2025-02-05
+last_modified_date: 2025-08-01
 ---
 
 # How we work
@@ -18,44 +18,40 @@ last_modified_date: 2025-02-05
 
 ## Methodology
 
-We offer a **project-based** approach to clients who want to engage our services for a specific project. This modality establishes a binding agreement detailing the scope, timeline and payment terms. The contract sets expectations and responsibilities, defining the roles of both parties, ensuring clarity on requirements, and protecting everyone's interests.
+We offer two primary engagement models, each designed to align with our partners' unique needs:
 
-We prefer this method because it allows us to plan and execute the project in line with the partner's needs. We take on the role of active partners in the project, collaborating with clients to set clear objectives, milestones, and deliverables, ensuring the project's success. This helps us build long-term relationships and deliver a very high-quality work.
+Our **Project-Based** focus model is for well-defined initiatives, ensuring crystal-clear scope, **timelines**, and deliverables. We co-create solutions as active partners, guaranteeing focused execution and exceptional quality from concept to completion. This model builds a foundation for **lasting impact**.
 
-We also provide a **capacity-based** model for clients needing flexibility in requirements. The client accesses variable resources from our company at optimal times, such as during workload peaks or between validation phases. This method can be a viable alternative when the project is not yet fully defined.
+Our **Capacity-Based** model allows partners to **secure dedicated capacity in advance**, guaranteeing immediate, on-demand access to our expert team. Tailored for navigating workload peaks, critical validation phases, or evolving project requirements, this approach ensures continuous momentum and proactive support, free from the constraints of fixed project scopes and ensuring **resource readiness** when it matters most.
 
-## Our area of expertise
+## Our expertise
 
-Volcanic Minds delivers excellence. Our mission is to craft top products with our team's diverse expertise, including:
+At Volcanic Minds, our expertise is the crucible where **innovation meets impact**. We forge strategic advantages for our partners across a comprehensive range of disciplines:
 
-- tailor-made solutions
-- CX / UX / UI design
-- web and mobile applications
-- devOps and system integrations
-- strategy & CIO / CTO as a service
+- Project Orchestration
+- UX/UI Design
+- Software Engineering (Web, Mobile, SaaS Development)
+- Cloud Architecture
+- DevOps Automation
+- Enterprise Integration
+- AI Solutions
+- Strategic & CIO/CTO Advisory
 
-Attention to detail, maximum efficiency, and an innovative approach are among our strengths. We have a mobile-first approach to hybrid app development and an SEO-oriented approach to building digital solutions. We build scalable systems from the outset, without the need for large initial investments, yet ready to handle demanding workloads.
+Attention to detail, maximum efficiency, and an innovative approach are among our strengths. We have a mobile-first approach to hybrid app development and an SEO-oriented approach to building digital solutions. We engineer scalable systems from the day one, without the need for large initial investments, yet ready to handle demanding workloads.
 
-We have more than ten years of **experience** serving clients in sectors like banking and finance, manufacturing, advertising, digital evolution, and citizen services, we bring substantial expertise to every project.
+With over a decade of experience transforming complex challenges in banking, manufacturing, advertising, and citizen services, we deliver tangible success. This is the **Volcanic Minds** standard.
 
-We provide superior products and solutions that meet all your needs. We are **Volcanic Minds**.
+## Project journey
 
-## Project steps
+Every project is a **collaborative** journey designed for maximum impact. We follow a refined methodology, ensuring clarity and success from concept to completion:
 
-Managing a new IT project requires careful planning and execution to ensure it's completed on time, within budget, and meets the desired outcomes. Here’s how Volcanic Minds operates when handling a new IT project:
+- **Engage**: We begin to define vision, objectives, precise scope, timeline, and resources. This is where the blueprint for shared success takes shape.
 
-- **Engage**: We begin by actively engaging with stakeholders to understand their requirements, objectives, and goals. This involves thorough documentation and analysis of the project scope, expected timeline, and budget.
+- **Mockup**: Next, translate concepts into tangible prototypes or mockups, enabling early feedback and iterative refinement to confirm design and functionality.
 
-- **Mockup**: Next, we study the target audience and create prototypes or mockups. This step identifies potential design or functionality issues early on and allows stakeholders to provide feedback on the project's design and features.
+- **Creation**: our expert teams orchestrate precise execution. We design, develop, and integrate all technical components (from software to infrastructure) ensuring adherence to specifications and a focus on agile delivery. We maintain radical transparency throughout, providing incremental progress updates and efficient change management. Continuous communication ensures unwavering alignment with partner expectations.
 
-- Creation:
-    - **Management**: Effective team management is crucial. We assign roles and responsibilities, set clear goals and targets, and monitor progress. Our project managers ensure the team works efficiently, addressing any issues promptly.
-
-    - **Development**: We design and develop the technical aspects, including hardware, software, and network infrastructure. Our technical expertise ensures the project is built to specification and meets stakeholder requirements.
-
-    - **Sharing**: We keep stakeholders informed through incremental sharing of development progress and manage change requests efficiently. Regular communication and progress reports ensure the project aligns with expectations.
-
-- **Evolution**: Finally, we manage deployment, product evolution, and provide release support. We deploy the project, verify its functionality, and offer ongoing support. We also maintain and update the project regularly to meet changing needs and requirements.
+- **Evolution**: we manage seamless product launches, verify functionality, and provide ongoing support. We ensure continuous evolution, adapting solutions to changing needs and securing long-term value for our partners.
 
 ## Project meetings
 

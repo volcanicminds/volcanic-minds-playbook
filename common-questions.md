@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Common questions
-nav_order: 7
-last_modified_date: 2025-02-05
+nav_order: 6
+last_modified_date: 2025-08-01
 ---
 
 # Common questions
