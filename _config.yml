@@ -26,10 +26,10 @@ logo: "/assets/images/logo-dark.png"
 author:
   name: Volcanic Minds
   email: info@volcanicminds.com
-color_scheme: dark
+color_scheme: volcanicminds
 favicon_ico: "/assets/images/favicon.ico"
 markdown_ext: "md"
-footer_content: "Volcanic Minds S.r.l. - Corso Vinzaglio 24, 10121 Torino (TO) - P.IVA 12754330012"
+footer_content: "Volcanic Minds S.r.l. a socio unico - Corso Vinzaglio 24, 10121 Torino (TO) - P.IVA 12754330012"
 # minima:
 #   social_links:
 #     - {
@@ -49,7 +49,7 @@ footer_content: "Volcanic Minds S.r.l. - Corso Vinzaglio 24, 10121 Torino (TO) -
 #   show_excerpts: false
 
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the Volcanic Minds business playbook, which describes the guidelines and values
+  This is the Volcanic Minds Business Playbook, which describes the guidelines and values
   on which the company is based.
 url: "https://playbook.volcanicminds.com"
 github_username: volcanicminds
