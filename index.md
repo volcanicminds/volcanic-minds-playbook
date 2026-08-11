@@ -10,7 +10,7 @@ last_modified_date: 2026-08-11
 
 At [Volcanic Minds](https://volcanicminds.com) we build software and AI systems that automate business processes. This **playbook** describes how we work: our history and culture, how we run projects, how we quote and get paid, how we hire and grow people, and where our boundaries are.
 
-We publish it because transparency is easier to verify than to claim. Anyone — a partner, a candidate, a collaborator — can read what we commit to before working with us, and hold us to it afterwards.
+We publish it because transparency is easier to verify than to claim. A partner, a candidate or a colleague can read what we commit to before working with us, and hold us to it afterwards.
 
 ## In short
 

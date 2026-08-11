@@ -18,19 +18,19 @@ last_modified_date: 2026-08-11
 
 ## Hiring process
 
-Our hiring process is guided by **inclusivity**, **transparency**, and **fairness**. We apply a rigorous five-step approach to ensure these goals:
+Our hiring process is built on **inclusivity**, **transparency** and **fairness**, in five steps:
 
-1.  **Application Submission**: Candidates apply via email, our website, social media, or job boards.
-2.  **Screening Call**: Initial assessment of interest, experience, and qualifications.
-3.  **Tech Interview**: Evaluation of skills and experience. In some cases, this may be combined with the screening call.
-4.  **Tech Test**: a practical exercise with clear instructions and support if you need it, scoped to a few hours rather than a weekend. It is never unpaid work on a real project.
-5.  **Job Offer**: an offer with the full picture of perks and benefits, not a headline figure.
+1.  **Application submission**: candidates apply by email, through our website, social media or job boards.
+2.  **Screening call**: a first look at interest, experience and background.
+3.  **Tech interview**: we go through skills and experience in detail. Sometimes this is merged with the screening call.
+4.  **Tech test**: a practical exercise with clear instructions and support if you need it, scoped to a few hours rather than a weekend. It is never unpaid work on a real project.
+5.  **Job offer**: an offer with the full picture of perks and benefits, not a headline figure.
 
 We communicate clearly at every step, and we give a reason when the answer is no.
 
 ## Onboarding & coaching
 
-Onboarding gives new team members the knowledge, tools and context — our methods, technologies and vision — to start well, with nothing important left implicit.
+Onboarding gives new team members the knowledge, tools and context they need to start well: our methods, technologies and vision, with nothing important left implicit.
 
 From there, coaching is continuous. We ask people to set their own growth goals and work on them with their manager, and we treat work-life balance and mental well-being as part of that conversation rather than as a separate perk.
 
@@ -40,11 +40,11 @@ We are a small, fully remote team, and we would rather describe our structure as
 
 Work is organised around three areas: **product and design**, **engineering** (frontend, backend, QA, cloud and AI), and **operations and sales**. People own projects end to end and, as they grow, take on the coordination of a team or the relationship with a partner.
 
-Growth here means widening scope and responsibility rather than climbing formal grades: leading a project, owning a partner relationship, mentoring someone new, becoming the reference point for a technology. It is not automatic and it is not always linear — it follows demonstrated ability rather than time served. What we do commit to is that the criteria are discussed openly with your manager, not decided behind a closed door.
+Growth here means widening scope and responsibility rather than climbing formal grades: leading a project, owning a partner relationship, mentoring someone new, becoming the reference point for a technology. It is not automatic and it is not always linear. It follows demonstrated ability rather than time served. What we do commit to is that the criteria are discussed openly with your manager, not decided behind a closed door.
 
 ## Remote working
 
-Volcanic Minds operates as a fully remote organization, fostering trust and efficiency. Team members work from their preferred location, maintaining availability within a specific time zone range (no more than one hour ahead or behind company official time). This ensures collaborative hours while offering scheduling flexibility.
+We are fully remote. You work from wherever you want, as long as you stay within one hour of company time, ahead or behind, so that there are always hours when everyone is reachable.
 
 We meet in person for team-building, training and celebrations when there is a reason to, deciding together rather than out of calendar obligation.
 
@@ -60,7 +60,7 @@ Beyond that:
 
 ## Investment time
 
-Everyone is encouraged to spend about **8 hours a month** on their own development and well-being: open-source contributions, reading, e-learning, physical activity. It is work time, not spare time — which is the only reason it actually happens.
+Everyone is encouraged to spend about **8 hours a month** on their own development and well-being: open-source contributions, reading, e-learning, physical activity. It is work time, not spare time. That is the only reason it actually happens.
 
 ## Time off
 
@@ -77,7 +77,7 @@ We ask only that days are planned in advance with your manager, so that neither 
 
 ## Parting ways
 
-Separations are difficult but sometimes necessary. When one starts to look likely, the first step is an open conversation with your manager — often there is a solution nobody has said out loud yet.
+Separations are difficult but sometimes necessary. When one starts to look likely, the first step is an open conversation with your manager. Often there is a solution nobody has said out loud yet.
 
 **Resignation**: we respect the decision and handle it professionally. We ask for the notice set by contract and law, organise a proper knowledge handover, and run an exit interview, because the feedback of someone who is leaving is usually the most honest we get. Doors stay open.
 

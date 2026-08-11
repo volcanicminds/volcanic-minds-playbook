@@ -26,7 +26,7 @@ We’re constantly looking for highly motivated professionals to join our team. 
 
 We reply to every application, including the ones we turn down.
 
-**Please:** read this playbook before applying. It is not a formality — most of what you would want to ask us in a first call is already written here.
+**Please:** read this playbook before applying. It is not a formality. Most of what you would want to ask us in a first call is already written here.
 
 ## How to become a partner
 
