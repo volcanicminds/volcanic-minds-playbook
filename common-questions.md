@@ -2,7 +2,7 @@
 layout: default
 title: Common questions
 nav_order: 6
-last_modified_date: 2025-08-01
+last_modified_date: 2026-08-11
 ---
 
 # Common questions
@@ -18,52 +18,36 @@ last_modified_date: 2025-08-01
 
 ## Why this playbook?
 
-This playbook is a key resource for companies aspiring to our level. It reflects our approach to working, thinking, and collaborating with partners, clients, and collaborators.
+It reflects how we work, think and collaborate with partners and colleagues, and it exists so that nobody has to guess.
 
-Its strength lies in providing a broad vision beyond daily tasks, offering a transparent path to long-term goals. It aligns our objectives across teams and projects, ensuring a unified vision.
+Internally, it keeps teams and projects aligned on the same expectations. Externally, it lets a partner or a candidate know what they are getting into before they commit — including the parts that are inconvenient for us.
 
-While not exhaustive, this playbook aims to provide transparency and demonstrate that it is possible to conduct business in a clear and structured way.
-
-## What are the strengths of the playbook?
-
-A business playbook is essential for defining how a company operates. It acts as a roadmap, reflecting our values and philosophy. Here are the key strengths:
-
-- **Consistency**: ensures everyone is aligned with quality, transparency, and client satisfaction.
-
-- **Clarity**: provides well-designed policies, procedures, and guidelines for team, partners, and stakeholders.
-
-- **Reputation**: helps build a strong reputation by delivering on our promises. Volcanic Minds is dedicated to building a solid professional reputation.
-
-- **Efficiency**: enhances productivity, cost savings and profitability through defined processes.
-
-- **Growth**: supports business growth by attracting clients and creating opportunities
+It is not exhaustive, and it is not a sales document. It is an attempt to show that business can be conducted in a clear and structured way, and to be judged on it.
 
 ## How frequently is this playbook updated?
 
-This playbook is a living document that is constantly evolving to reflect the latest decisions and practices of the company. There is no one right time to update and review this document, but it is true that we consistently review it to reflect any business decisions in a timely manner.
-
-In any case, different sections of this document are reviewed at least a few times each year.
+It is a living document. Sections are updated when a decision changes the practice they describe, and every section is reviewed at least once a year. The date at the bottom of each page tells you when that page was last reviewed — if it looks old, it is old, and you are entitled to ask us why.
 
 ## Who keeps this playbook up to date?
 
-The playbook is updated whenever a new decision is made by the leadership team or approved as a team proposal. The final decision for updates rests with the board of directors. This ensures everyone works with the latest policies and procedures, improving efficiency and alignment.
-
-The team is encouraged to provide suggestions and feedback to keep the playbook relevant and effective.
+Anyone in the team can propose a change, and is encouraged to. A section changes when a decision changes the practice behind it; the final call rests with the company's leadership.
 
 ## Who owns the legal rights to the software that you write?
 
-We transfer the legal ownership of the software to the client only after payment, which is a standard practice in the software industry. Once paid, the client owns the legal rights and can use the software as they see fit.
+You do. The code we develop for a partner is 100% theirs, to use and modify as they see fit. Legal transfer completes on final payment, but the ownership itself is never in question.
 
-Please note that if we use third-party software with open or closed licenses, we cannot transfer ownership of that software. However, the code we develop in-house is fully transferable along with the rights to use and modify it.
+Third-party components under open or closed licences stay under their own terms — we cannot transfer what was never ours — and we name them before you commit. Full details in [ownership and handover](https://playbook.volcanicminds.com/how-we-work#ownership-and-handover).
 
-## Do you work on-site with partners and clients?
+## Do you work on-site with partners?
 
-Every collaboration requires meetings, including in-person, to build solid relationships. At Volcanic Minds, we have chosen to work in an agile and remote manner for reasons such as cost, talent acquisition, work-life balance, market reach, and company strategy. We maintain physical contact with clients and partners when necessary, but we strongly prefer smart working methods.
+We are remote by choice — for cost, access to talent, work-life balance and reach — and that is our default. But a relationship is not built entirely through a screen: we meet in person when a project needs it, typically at the start and around key milestones.
 
 ## What tools do we often use?
 
-Here is a _non-exhaustive_ **messy** list: discord, slack, github, gitlab, vscode, xcode, google workspace, harvest, jira, confluence, asana, trello, ganttpro, postman, figma, sketch and others ..
+Here is a _non-exhaustive_ **messy** list: discord, slack, google workspace, github, gitlab, vscode, xcode, postman, figma, jira, confluence, prismic, plausible, hubspot, sentry, plus AI coding assistants and agent frameworks (mastra among them) ..
+
+The stack for a partner project is a separate decision: it follows the problem, not our habits.
 
 ## What did we use to create this playbook?
 
-This playbook is hosted on [github](https://github.com/volcanicminds/volcanic-minds-playbook){:target="_blank"} and we have used Jekyll with [Just the docs](https://github.com/just-the-docs/just-the-docs){:target="_blank"}, a modern, high customizable, responsive theme (with built-in search).
+This playbook is hosted on [github](https://github.com/volcanicminds/volcanic-minds-playbook){:target="_blank"} and we have used Jekyll with [Just the docs](https://github.com/just-the-docs/just-the-docs){:target="_blank"}, a modern, highly customizable, responsive theme (with built-in search).

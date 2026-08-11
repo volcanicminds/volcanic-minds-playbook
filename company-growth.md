@@ -2,7 +2,7 @@
 layout: default
 title: Company growth
 nav_order: 3
-last_modified_date: 2025-08-01
+last_modified_date: 2026-08-11
 ---
 
 # Company growth
@@ -18,46 +18,43 @@ last_modified_date: 2025-08-01
 
 ## Growth strategy
 
-Volcanic Minds is on a deliberate path of expansion. From empowering tech startups and SMEs to driving success for larger enterprises, our growth strategy is built on deepening our specialized service lines. 
+Volcanic Minds grows by deepening its service lines rather than by widening its catalogue. From tech startups and SMEs to larger enterprises, the pattern is the same: existing partnerships expand because the work is good, and new ones arrive because someone talked about it.
 
-This allows us to amplify existing partnerships and forge new ones, ensuring our evolution is intrinsically linked to the shared success of our entire ecosystem.
+Our most recent step in this direction is [Volcanic Minds AI](https://volcanicminds.ai){:target="_blank"}, the division dedicated to AI transformation, agentic systems and EU AI Act governance.
 
-## S.M.A.R.T. Goals
+## Strategic priorities
 
-As you probably know, SMART is a mnemonic acronym that can be used to drive the main objectives, which stands for ***S***_pecific_ ***M***_easurable_ ***A***_chievable_ ***R***_easonable_ ***T***_ime-bound_.
+These are directional priorities, reviewed each year. They are not measurable targets, and we prefer to name them plainly rather than dress them up as metrics we do not publish:
 
-Strategic goals:
-
-- Enhance website presence through various online strategies.
-- Diversify revenue streams by customer type and sector.
-- Implement and expand AI-related projects.
-- Strengthen and expand internship and co-ops.
-- Leverage open source projects for partner initiatives.
-- Explore and enter new international markets.
-- Establish new alliances in complementary sectors.
-- Increase overall sales and revenue.
+- Grow the AI service line and the Volcanic Minds AI division.
+- Diversify revenue across sectors and types of partner.
+- Strengthen and expand internships and co-ops.
+- Keep investing in open source, and use it in partner projects where it fits.
+- Explore selected international markets.
+- Build alliances in complementary sectors.
+- Strengthen our online presence.
 
 ## Work for equity
 
-While our primary focus is **service delivery**, we view strategic equity ventures as a powerful tool for **mutual growth**. We actively explore and invest in ambitious projects, particularly during their evolutionary or maintenance phases. This allows us to forge deeper, mutually beneficial partnerships, especially with those seeking innovative financing solutions. 
+While our primary focus is **service delivery**, we consider strategic equity ventures a legitimate tool for **mutual growth**. We explore and invest in ambitious projects, particularly in their evolutionary or maintenance phases, which suits partners looking for alternative financing.
 
-Each opportunity is rigorously evaluated for clear alignment with our mission and a defined path to shared victory.
+Each opportunity is evaluated for genuine alignment with our mission and for a realistic path to shared results. Most of the ones we look at, we decline.
 
 ## Social projects & no-profit activities
 
-We recognize the importance of giving back a portion of our success. This helps build a strong community, allows us to use our expertise for the greater good, and motivates our team by raising awareness on various social issues.
+We give back a portion of our success. It builds community, puts our expertise to use for something other than revenue, and keeps the team connected to issues worth caring about.
 
-If you have a project to propose, please reach out to us. We will evaluate it together. More information on how to contact us can be found [here](https://playbook.volcanicminds.com/contact-us#how-to-ask-us-to-become-your-sponsor).
+If you have a project to propose, reach out and we will evaluate it together. Details on [how to contact us](https://playbook.volcanicminds.com/contact-us#how-to-ask-us-to-become-your-sponsor).
 
 ## Our (open) projects
 
-Volcanic Minds is developing a suite of open-source projects using JavaScript and Node.js.
+Volcanic Minds maintains a suite of open-source projects in TypeScript and Node.js:
 
-The suite includes:
-- Backend
-    - [Volcanic Backend](https://github.com/volcanicminds/volcanic-backend){:target="_blank"} based on [Fastify](https://www.fastify.io/){:target="_blank"}
-    - [Volcanic Database Typeorm](https://github.com/volcanicminds/volcanic-database-typeorm){:target="_blank"} based on [TypeORM](https://typeorm.io/)
-- Website
-    - [Volcanic Minds Website](https://github.com/volcanicminds/volcanic-minds-website){:target="_blank"} based on [Nuxt 3](https://nuxt.com/){:target="_blank"}
+- [Volcanic Backend](https://github.com/volcanicminds/volcanic-backend){:target="_blank"} — our backend foundation, based on [Fastify](https://www.fastify.io/){:target="_blank"}, with a ready-to-run [sample project](https://github.com/volcanicminds/volcanic-backend-sample){:target="_blank"}
+- [Volcanic Tools](https://github.com/volcanicminds/volcanic-tools){:target="_blank"} — a tree-shakeable library for MFA, mailing and related utilities
+- [Volcanic Admin](https://github.com/volcanicminds/volcanic-admin){:target="_blank"} — our admin interface
+- [Volcanic Database TypeORM](https://github.com/volcanicminds/volcanic-database-typeorm){:target="_blank"} — archived and no longer maintained, kept public for reference
 
-All of which are designed to be customizable and adaptable to various projects. Dive deeper into [Volcanic Minds GitHub organization](https://github.com/volcanicminds){:target="_blank"}.
+Alongside these we keep public experiments, such as our [Mastra AI](https://github.com/volcanicminds/playground-mastra-ai){:target="_blank"} and [AI governance](https://github.com/volcanicminds/playground-mastra-governance){:target="_blank"} playgrounds, where we test agentic approaches before proposing them to a partner.
+
+Everything is designed to be adapted rather than adopted as-is. The full list lives in our [GitHub organization](https://github.com/volcanicminds){:target="_blank"}.

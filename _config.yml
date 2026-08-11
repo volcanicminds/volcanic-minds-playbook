@@ -29,7 +29,7 @@ author:
 color_scheme: volcanicminds
 favicon_ico: "/assets/images/favicon.ico"
 markdown_ext: "md"
-footer_content: "Volcanic Minds S.r.l. a socio unico - Corso Vinzaglio 24, 10121 Torino (TO) - P.IVA 12754330012"
+footer_content: "Volcanic Minds S.r.l. a socio unico - Cap. Soc. 10.000€ i.v. - Corso Vinzaglio 24, 10121 Torino (TO) - P.IVA IT12754330012 - REA TO-1313745 - PEC volcanicminds@pec.it"
 # minima:
 #   social_links:
 #     - {
@@ -88,6 +88,8 @@ back_to_top_text: "Back to top"
 nav_external_links:
   - title: Our website
     url: https://volcanicminds.com
+  - title: Volcanic Minds AI
+    url: https://volcanicminds.ai
 
 # Footer last edited timestamp
 last_edit_timestamp: false # default date in footer is disabled, redefined on footer_customr.html

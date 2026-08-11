@@ -2,7 +2,7 @@
 layout: default
 title: Contact us
 nav_order: 7
-last_modified_date: 2025-08-01
+last_modified_date: 2026-08-11
 ---
 
 # Contact us
@@ -18,13 +18,15 @@ last_modified_date: 2025-08-01
 
 ## How to start a new project together
 
-We’re always excited to explore new opportunities. Without any commercial constraints. If you have an idea or potential collaboration in mind, please reach out at [info@volcanicminds.com](mailto:info@volcanicminds.com).
+We’re always glad to explore new opportunities, with no commercial strings attached: a first conversation costs nothing and commits you to nothing. If you have an idea or a possible collaboration in mind, write to [info@volcanicminds.com](mailto:info@volcanicminds.com).
 
 ## How to come on board
 
-We’re constantly looking for highly motivated professionals to join our team. If you’re seeking a challenging and rewarding opportunity, you ~~are invited to~~ MUST send CV and a short presentation to [hr@volcanicminds.com](mailto:hr@volcanicminds.com). Note that we maintain a rigorous hiring process and welcome candidates who demonstrate exceptional skills and a genuine passion for their work.
+We’re constantly looking for highly motivated professionals to join our team. If you’re seeking a challenging and rewarding opportunity, send your CV and a short presentation to [hr@volcanicminds.com](mailto:hr@volcanicminds.com). Our hiring process is demanding, and we look for demonstrated skill and genuine passion rather than a matching list of keywords.
 
-**Please:** ensure you read this playbook before proceeding. This is an essential step.
+We reply to every application, including the ones we turn down.
+
+**Please:** read this playbook before applying. It is not a formality — most of what you would want to ask us in a first call is already written here.
 
 ## How to become a partner
 

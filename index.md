@@ -2,18 +2,16 @@
 layout: default
 title: The Playbook
 nav_order: 1
-last_modified_date: 2025-08-04
+last_modified_date: 2026-08-11
 ---
 
 # The Playbook
 {: .no_toc }
 
-At [Volcanic Minds](https://volcanicminds.com), we are committed to delivering high-quality products and services to all our partners while fostering a positive, inclusive work environment for the team.
+At [Volcanic Minds](https://volcanicminds.com) we build software and AI systems that automate business processes. This **playbook** describes how we work: our history and culture, how we run projects, how we quote and get paid, how we hire and grow people, and where our boundaries are.
 
-This **playbook** outlines our company’s history, culture, mission, values, product and service offerings, sales and marketing strategies, as well as our approach to compliance.
-
-Our **playbook** serves as a practical guide to ensure consistency and alignment with our goals. It supports us in delivering outstanding results and highlights our approach to personal and professional growth, creating a positive workplace, and ensuring the engagement and satisfaction of both our collaborators and partners.
+We publish it because transparency is easier to verify than to claim. Anyone — a partner, a candidate, a collaborator — can read what we commit to before working with us, and hold us to it afterwards.
 
 ## In short
 
-This playbook reflects our dedication to **quality** and **excellence** in a world where innovation is a key value.
+This is not a brochure. Where a practice is still imperfect or evolving, we say so rather than leave it out.

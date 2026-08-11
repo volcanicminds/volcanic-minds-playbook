@@ -2,7 +2,7 @@
 layout: default
 title: How we work
 nav_order: 4
-last_modified_date: 2025-08-04
+last_modified_date: 2026-08-11
 ---
 
 # How we work
@@ -16,79 +16,124 @@ last_modified_date: 2025-08-04
 
 ---
 
+## What we do
+
+Our work is organised in four service lines:
+
+- **Design Strategy** — research, UX/UI design and product definition, before a line of code exists.
+- **Digital Factory** — end-to-end design and development: frontend web and mobile, backend, cloud deployment, devOps, system integration and process automation.
+- **Project Leading** — business analysis, agile coaching, product ownership, tech leadership, delivery management and training, for partners who need the discipline more than the hands.
+- **AI Orchestration** — workflows where AI agents carry out complex tasks autonomously or semi-autonomously, integrated with a company's real data and systems.
+
+AI transformation for SMEs — readiness assessment, multi-agent architectures, EU AI Act governance — is handled by our dedicated division, [Volcanic Minds AI](https://volcanicminds.ai){:target="_blank"}.
+
+Behind these lines sits over a decade of collective experience across banking, manufacturing, healthcare, advertising and citizen services.
+
 ## Methodology
 
-We offer two engagement models, each designed to align with our partners' unique needs:
+We offer two engagement models:
 
-Our **Project-Based** model is for well-defined initiatives, ensuring clear scope, **timelines**, and deliverables. We co-create solutions as active partners, guaranteeing focused execution and exceptional quality from concept to completion. This model builds a foundation for **lasting impact**.
+Our **Project-Based** model is for well-defined initiatives, with clear scope, timeline and deliverables. It suits work that already has a shape.
 
-Our **Capacity-Based** model allows partners to **secure dedicated capacity in advance**, ensuring immediate, on-demand access to our expert team. Tailored for workload peaks or evolving requirements, this approach provides continuous momentum and proactive support, ensuring **resource readiness** when it matters most.
+Our **Capacity-Based** model lets partners secure dedicated capacity in advance. It is designed for workload peaks, or for when specifications are not fully defined yet, so that availability never becomes the bottleneck.
 
-## Our expertise
+## Who works on your project
 
-Our expertise is the crucible where **innovation meets impact**. We forge strategic advantages for our partners across a comprehensive range of disciplines:
+You know who is on your team, by name and by role, before work starts.
 
-- Project Orchestration
-- UX/UI Design
-- Software Engineering (Web, Mobile, SaaS Development)
-- Cloud Architecture
-- DevOps Automation
-- Enterprise Integration
-- AI Solutions
-- Strategic & CIO/CTO Advisory
+We keep people on a project rather than rotating them for internal convenience: continuity is worth more than resource optimisation. When someone does have to change, you hear it from us first, with a proper handover — not by noticing a different name in a commit.
 
-We engineer scalable, SEO-optimized, mobile-first systems from day one, minimizing initial investments while prepared for demanding workloads. 
+Where part of the work involves trusted external collaborators, you are told in advance, and our responsibility for the result does not change.
 
-Backed by over a decade of diverse experience across banking, manufacturing, advertising, and citizen services, we deliver tangible success. This is the **Volcanic Minds** standard.
+Every project has one point of contact on our side. If something in the relationship is not working, raise it early — with that person, or above them. We would much rather have an uncomfortable call in week three than a polite one at the end.
+
+## Engineering standards
+
+These apply to every project, whether a partner asks for them or not:
+
+- **Accessibility**: we build to WCAG standards. Accessibility is a requirement, not an upgrade.
+- **Ready to scale from day one**: mobile-first, SEO-optimized architectures that keep the initial investment low while staying prepared for demanding workloads.
+- **Standard technologies**: the stack follows the problem, never our convenience, and it is documented well enough for someone else to pick it up.
+- **Security and data protection by design**: access control by role, protection of personal and sensitive data, traceable decisions. Credentials and access to your systems are granted per project and revoked when it ends.
 
 ## Project journey
 
-Every project is a **collaborative** journey designed for maximum impact. We follow a refined methodology, ensuring clarity and success from concept to completion:
+Every project is a collaborative journey. We follow four phases:
 
-- **Engage**: We define vision, objectives, scope, timeline, and resources. This is the blueprint for shared success.
+- **Engage**: we define vision, objectives, scope, timeline and resources. This is the blueprint for shared success.
 
-- **Mockup**: Next, translate concepts into tangible prototypes or mockups, enabling early feedback and iterative refinement to confirm design and functionality.
+- **Mockup**: we translate concepts into prototypes or mockups, so design and functionality can be confirmed through early feedback rather than assumed.
 
-- **Creation**: Our expert teams orchestrate precise execution, designing, developing, and integrating all technical components. We ensure agile delivery and maintain radical transparency through incremental updates and efficient change management.
+- **Creation**: our teams design, develop and integrate the technical components, delivering in increments and managing change openly.
 
-- **Evolution**: We manage seamless product launches, verify functionality, and provide ongoing support. We ensure continuous evolution, adapting solutions to changing needs for long-term value.
+- **Evolution**: we manage the launch, verify functionality and provide ongoing support, adapting the solution as needs change.
 
 ## Project meetings
 
-We leverage Scrum to manage projects effectively, ensuring transparent collaboration and continuous value delivery through key ceremonies:
+We work in Scrum, with the standard ceremonies: sprint **planning**, short **daily** syncs, a **review** where completed work is demonstrated to stakeholders, and a **retrospective** where the team improves its own process.
 
-- **Planning**: The team determines tasks for the upcoming sprint, reviewing and selecting items from stakeholders and the product backlog.
+What matters to us is not the ritual but its purpose: a partner should always be able to look at working software, not at a status report.
 
-- **Daily Meetings**: Brief, daily sessions where each team member provides quick progress updates and discusses challenges, maintaining momentum.
+## How we quote and how we get paid
 
-- **Review**: At sprint end, we demonstrate completed work to stakeholders and receive feedback, which refines the product backlog and identifies issues early.
+We don't give off-the-cuff pricing. Every solution is different, and a number produced in five minutes is either padded or wrong.
 
-- **Retrospective**: The team reflects on the previous sprint to identify process improvements, directly impacting the backlog.
+What a Volcanic Minds quote always contains:
 
-Our team collaborates effectively to consistently deliver value, enhancing project efficiency, client satisfaction, and our ability to adapt to change.
+- A **cost range**, not a single figure pretending to be certain.
+- **Payment terms** and milestones, agreed before work starts.
+- **Detailed deliverables**, so that "done" is not open to interpretation.
+- Any **recurring cost** — hosting, third-party licences, AI model usage — disclosed up front. They are yours to pay, so they are yours to know about in advance.
 
-## Project delivery kit
+On dates: we set realistic milestones, not attractive ones. Timing depends on complexity, and we would rather lose a deal at the estimate stage than miss a date we invented in order to win it. If a delay becomes likely, you hear it from us immediately, together with a replanning proposal — not on the deadline.
 
-Our commitment extends beyond delivery. Upon project conclusion, if required, we provide comprehensive documentation of processes, the devOps infrastructure setup and source code upon payment.
+On changes: new requirements go through a change request. Nothing is built, and nothing is billed, without your approval.
 
-We transfer all project knowledge, ensuring partners have full control, understanding, and the ability to maintain and adapt their solutions according to future goals.
+After go-live we distinguish clearly between **bugs**, covered by warranty, and **new features**, which are quoted. Progressive and corrective maintenance is a separate contract with explicit SLA.
+
+## Ownership and handover
+
+The code we develop for a partner is **100% theirs**. Legal transfer completes on final payment — standard practice in our industry — but ownership is the starting assumption of the contract, not a concession granted at the end of it.
+
+Third-party software is the exception: components under open or closed licences remain under their own terms, and we name the ones a project depends on before you commit to it.
+
+At project conclusion we hand over process documentation, the devOps infrastructure setup, repositories, API and Swagger/OAS documentation, and training sessions for your team. The goal is that you are able to maintain and evolve the solution without us. If you keep working with us, it should be because you want to.
+
+## How we use AI in our own work
+
+We sell AI governance, so we owe an account of our own.
+
+- **We use AI tools daily** — code assistants, agents, model-based analysis — because they make us faster. We don't hide it, and we don't bill hours that a tool saved.
+- **Responsibility does not transfer.** Code written with AI assistance is reviewed by a person who signs for it. A model is never the last check before something reaches a production environment.
+- **Partner data stays inside the agreed perimeter.** Code, documents and personal data belonging to a partner are not sent to tools beyond what we have agreed, and are never used to train external models.
+- **Human-in-the-loop where it counts.** In the systems we build, AI prepares, analyses and proposes; execution on critical processes requires human approval. We hold ourselves to the same rule.
+
+If a partner prefers that we do not use AI tooling on their codebase, they can say so. We will explain what it costs in time, and we will respect the decision.
+
+## What we don't do
+
+Boundaries protect a project more than any contract clause. Ours, plainly:
+
+- **We don't take work we can't do well.** If a project needs expertise we don't have, we say so and, where we can, point elsewhere. A referral costs us a project; the alternative costs you one.
+- **We don't accept deadlines we believe are impossible.** We will propose a smaller scope that fits the date, or a date that fits the scope.
+- **We don't build before validating the problem.** If the analysis shows that what you asked for won't solve what you have, we say it before quoting, not after delivering.
+- **We don't hold anyone hostage.** No proprietary lock-in, no undocumented infrastructure, no code only we can read.
+- **We don't sell AI where AI isn't the answer.** Plenty of processes need a better form and a clean database, not an agent.
+
+We re-check these boundaries throughout a project, not only at the start. Providing an outside perspective is part of what a partner is for.
 
 ## Effective meetings
 
-Productive meetings require adherence to clear guidelines for all participants, partners and colleagues alike:
+Productive meetings require clear guidelines, for partners and colleagues alike:
 
 *   Meetings should be held between 09:30-12:30 and 14:30-17:30.
 *   As a fully remote company, participants are expected to keep cameras on and be punctual.
-*   Only essential personnel should be invited, informed via summary emails when appropriate.
+*   Only essential people should be invited, informing the others by summary email when appropriate.
 *   Meetings should not exceed 90 minutes, with participants well-prepared.
-*   Conclude each meeting by sharing established goals or topics for future discussions.
-
-## Define boundaries
-
-Defining project boundaries is crucial for precise specifications and protecting partner interests. We consistently validate these boundaries throughout the project, providing an external perspective to ensure alignment with true objectives.
+*   Every meeting closes by sharing the agreed goals or the topics for the next one.
 
 ## Timesheet
 
-At Volcanic Minds, we believe in trust and autonomy in managing workload. We do not require collaborators to fill out timesheets unless requested by the partner or if stipulated in the contract.
+We believe in trust and autonomy in managing workload. We do not require collaborators to fill out timesheets unless the partner requests it or the contract stipulates it.
 
-We encourage collaborators to communicate openly with their manager about any requests, questions, or concerns regarding time tracking.
+Collaborators are encouraged to raise any question or concern about time tracking openly with their manager.
