@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Company growth
+description: "How the company grows: strategic directions, work for equity, social projects and the open-source projects we maintain."
 nav_order: 3
 last_modified_date: 2026-08-11
 ---

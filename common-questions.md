@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Common questions
+description: "Frequent questions about the playbook itself, who owns the code we write, whether we work on-site, and the tools we use."
 nav_order: 6
 last_modified_date: 2026-08-11
 ---

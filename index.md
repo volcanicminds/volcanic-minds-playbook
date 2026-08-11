@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Playbook
+description: "The public business playbook of Volcanic Minds: how we work, what we commit to, and where our boundaries are."
 nav_order: 1
 last_modified_date: 2026-08-11
 ---

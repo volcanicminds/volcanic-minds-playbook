@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact us
+description: "How to start a project with us, apply for a job, become a partner, or ask us for sponsorship."
 nav_order: 7
 last_modified_date: 2026-08-11
 ---

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Company profile
+description: "Who we are: founded in Turin in September 2022, what we build today, and the vision, mission, philosophy and remote culture behind it."
 nav_order: 2
 last_modified_date: 2026-08-11
 ---

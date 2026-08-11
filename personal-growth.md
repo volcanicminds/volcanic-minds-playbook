@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Personal growth
+description: "Hiring, onboarding, career paths, remote working, tech budget and benefits, time off, and how we handle people leaving."
 nav_order: 5
 last_modified_date: 2026-08-11
 ---

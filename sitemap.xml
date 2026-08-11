@@ -1,0 +1,15 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- assign playbook_pages = site.pages | where_exp: "p", "p.nav_order" | sort: "nav_order" -%}
+{%- for p in playbook_pages %}
+  <url>
+    <loc>{{ p.url | absolute_url | xml_escape }}</loc>
+{%- if p.last_modified_date %}
+    <lastmod>{{ p.last_modified_date | date: "%Y-%m-%d" }}</lastmod>
+{%- endif %}
+  </url>
+{%- endfor %}
+</urlset>

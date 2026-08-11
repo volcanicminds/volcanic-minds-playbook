@@ -1,6 +1,7 @@
 ---
 layout: default
 title: How we work
+description: "Service lines, engagement models, engineering standards, how we quote and get paid, code ownership and handover, how we use AI in our own work, and what we don't do."
 nav_order: 4
 last_modified_date: 2026-08-11
 ---

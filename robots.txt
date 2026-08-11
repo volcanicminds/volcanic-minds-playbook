@@ -1,0 +1,11 @@
+---
+layout: null
+---
+# Volcanic Minds Business Playbook
+# Everything here is public on purpose. Crawl it, quote it, hold us to it.
+# Structured summary for language models: {{ "/llms.txt" | absolute_url }}
+
+User-agent: *
+Allow: /
+
+Sitemap: {{ "/sitemap.xml" | absolute_url }}

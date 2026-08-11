@@ -1,0 +1,28 @@
+---
+layout: null
+---
+{%- assign playbook_pages = site.pages | where_exp: "p", "p.nav_order" | sort: "nav_order" -%}
+# Volcanic Minds Business Playbook
+
+> The public business playbook of Volcanic Minds, a software house and innovation partner based in Turin, Italy, founded in September 2022. It documents how we run projects, how we quote and get paid, how we use AI in our own work, how we hire and grow people, and where we draw our boundaries.
+
+We publish it because transparency is easier to verify than to claim. This is not marketing material: it states commitments that a partner, a candidate or a colleague can hold us to. Where a practice is imperfect or still evolving, the playbook says so.
+
+Every page is maintained by Volcanic Minds and carries a review date at the bottom. Sections are reviewed at least once a year, and the final call on changes sits with the company's leadership.
+
+## Playbook
+
+{% for p in playbook_pages %}- [{{ p.title }}]({{ p.url | absolute_url }}): {{ p.description }}
+{% endfor %}
+## Company
+
+- [Volcanic Minds](https://volcanicminds.com): company website, with services, case studies and insights.
+- [Volcanic Minds AI](https://volcanicminds.ai): our division for AI transformation, agentic systems and EU AI Act governance.
+- [GitHub organization](https://github.com/volcanicminds): the open-source projects we maintain.
+
+## Contact
+
+- [New projects and general enquiries](mailto:info@volcanicminds.com): info@volcanicminds.com
+- [Jobs](mailto:hr@volcanicminds.com): hr@volcanicminds.com
+- [Partnerships](mailto:partner@volcanicminds.com): partner@volcanicminds.com
+- [Sponsorships](mailto:sponsor@volcanicminds.com): sponsor@volcanicminds.com
